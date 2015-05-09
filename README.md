@@ -5,6 +5,6 @@ Home directory
 
 ###Tertiary Heading
 
-*First
+* First
 
-*Second
+* Second
